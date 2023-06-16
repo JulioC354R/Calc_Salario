@@ -1,3 +1,11 @@
+/* Nome do Aluno:  Júlio César de Brito Herculano
+ * RA: 13523113793
+ * Nome do Programa: ProgramaCalcSalario
+ * Descrição: Desenvolva um programa que funcione como uma calculadora de valor a receber para 
+ * um professor. O programa deve solicitar ao usuário o nome do professor e seu regime 
+ * de pagamento, que pode ser: CLT, Horista ou PJ. 
+ * Data: 16/06/2023
+ */
 import java.util.Scanner;
 
 public class ProgramaCalcSalario {
